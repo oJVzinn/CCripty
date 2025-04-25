@@ -1,0 +1,3 @@
+C:/Users/joaov/Área de Trabalho/ARQUIVOS DO JV/ARQUIVOS DO JV/GitHub/TrabalhoLeonir/cmake-build-debug/CMakeFiles/TrabalhoLeonir.dir
+C:/Users/joaov/Área de Trabalho/ARQUIVOS DO JV/ARQUIVOS DO JV/GitHub/TrabalhoLeonir/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/joaov/Área de Trabalho/ARQUIVOS DO JV/ARQUIVOS DO JV/GitHub/TrabalhoLeonir/cmake-build-debug/CMakeFiles/rebuild_cache.dir
