@@ -3,4 +3,6 @@ project(TrabalhoLeonir C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(TrabalhoLeonir main.c)
+add_executable(TrabalhoLeonir main.c
+        main.c
+)
